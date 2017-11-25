@@ -1,6 +1,6 @@
 # FIZZ BUZZ
 
-![Image](https://raw.githubusercontent.com/goggle/codeeval/master/easy/001_fizz_buzz/fizz_buzz/fizz_buzz.png)
+![Image](https://raw.githubusercontent.com/goggle/codeeval/master/easy/001_fizz_buzz/fizz_buzz.png)
 
 
 ## CHALLENGE DESCRIPTION:
